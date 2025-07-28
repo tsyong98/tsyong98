@@ -10,7 +10,7 @@
 
 ## About me :thinking:
 
-I’m Sin Yong Tan, an AI Specialist working at [Musco Sports Lighting, LLC](https://www.musco.com/) (US). I was a member of Self-Aware Complex Systems ([SCS](https://sites.google.com/view/scslab-isu/home)) Lab at ISU, and I graduated with a Ph.D. in Mechanical Engineering in 2022.
+I’m Sin Yong Tan, an AI Scientist working at [Musco Sports Lighting, LLC](https://www.musco.com/) (US). I was a member of Self-Aware Complex Systems ([SCS](https://sites.google.com/view/scslab-isu/home)) Lab at ISU, and I graduated with a Ph.D. in Mechanical Engineering in 2022.
 
 
 ## Things I am passionate about :fire:
